@@ -13,6 +13,9 @@ body {
 .info {
     margin: 40px;
 }
+.intro-words h5 {
+    margin-top: 40px;
+}
 .naming {
     color: blue;
 }
