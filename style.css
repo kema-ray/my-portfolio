@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://media.istockphoto.com/photos/3d-abstract-architecture-background-picture-id171360611?k=20&m=171360611&s=612x612&w=0&h=eVNyhn9x4pT-LUyCf86klsrKdRHVRXrhnCXE5dnPrtw=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#info-image {
+    float: right;
+    height: 60vh;
+}
+.info {
+    margin: 40px;
+}
+.naming {
+    color: blue;
+}
+.info button {
+    background-color: greenyellow;
+    color: black;
+    border: 2px solid greenyellow;
+}
