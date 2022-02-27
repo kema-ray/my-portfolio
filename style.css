@@ -4,6 +4,11 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.offset:before {
+    display: block;
+    content: "";
+    height: 6rem;
+}
 #info-image {
     float: right;
     height: 30vh;
@@ -60,3 +65,9 @@ body {
     border: 2px solid #1ebba3;
     cursor: pointer;
 }
+/* @media  screen and (max-width: 767px) {
+    
+}
+@media  screen and (max-width: 479px) {
+    
+} */
