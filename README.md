@@ -5,7 +5,7 @@ This is a portfolio for Rachel Kemuma Oyondi which explains about me, the projec
 ## Author:
 Rachel Kemuma Oyondi
 
-## Installation
+## Final Result
 
 End project link: https://github.com/lilianjerikamau/budgetApp.git
 
@@ -30,5 +30,5 @@ rachelkemuma99@gmail.com
 
 ## License & copyright
 
-MIT Licencse
+MIT Licence
  **Rachel Oyondi @2022**
