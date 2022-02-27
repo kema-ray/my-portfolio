@@ -65,9 +65,15 @@ body {
     border: 2px solid #1ebba3;
     cursor: pointer;
 }
-/* @media  screen and (max-width: 767px) {
-    
+@media  screen and (max-width: 767px) {
+    .navbar {
+        letter-spacing: 0.1 rem;
+        padding: 10px 0;
+    }
 }
 @media  screen and (max-width: 479px) {
-    
-} */
+    .navbar {
+        letter-spacing: 0.1 rem;
+        padding: 7px 0;
+    } 
+}
