@@ -7,7 +7,7 @@ Rachel Kemuma Oyondi
 
 ## Final Result
 
-End project link: https://github.com/lilianjerikamau/budgetApp.git
+End project link: https://kema-ray.github.io/my-portfolio/
 
 ## Setup Instruction
 
